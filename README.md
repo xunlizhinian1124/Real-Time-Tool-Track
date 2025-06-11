@@ -14,9 +14,9 @@
 # Usage
 Run the aruco_tooltip.py file  
 👉Note that the code is designed to work with a Kinect v2 camera. If you are using a different camera, you may need to modify the image acquisition part of the code accordingly.
-![Example Image](picture/1-1.pdf)  
-![Example Image](picture/2-2.pdf)  
-![Example Image](picture/3-3.pdf)  
+![Example Image](picture/1-1.png)  
+![Example Image](picture/2-2.png)  
+![Example Image](picture/3-3.png)  
 
 
 
