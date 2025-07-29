@@ -263,5 +263,5 @@ class Kinect:
 
 
 if __name__ == "__main__":
-    kinect = Kinect()  # 实例化 Kinect 类
-    kinect.show_frames()  # 调用显示函数
+    kinect = Kinect()
+    kinect.show_frames()
